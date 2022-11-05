@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20200314 at Wed Jan 13 11:57:55 2021
+ By Robert Madole
+Copyright (c) Font Awesome
+</metadata>
+<!-- Font Awesome Free 5.15.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><defs>
+<font id="FontAwesome5Free-Solid" horiz-adv-x="512" >
+  <font-face 
+    font-family="Font Awesome 5 Free Solid"
+    font-weight="900"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="-1.00195 -64.9795 640.104 448.576"
+    underline-thickness="25"
+    underline-position="-50"
+    unicode-range="U+0020-F8FF"
+  />
+    <missing-glyph />
+    <glyph glyph-name="arrow-circle-right" unicode="&#xf0a9;" 
+d="M256 440c137 0 248 -111 248 -248s-111 -248 -248 -248s-248 111 -248 248s111 248 248 248zM227.1 296.4l75.5 -72.4004h-182.6c-13.2998 0 -24 -10.7002 -24 -24v-16c0 -13.2998 10.7002 -24 24 -24h182.6l-75.5 -72.4004
+c-9.69922 -9.2998 -9.89941 -24.7998 -0.399414 -34.2998l11 -10.8994c9.39941 -9.40039 24.5996 -9.40039 33.8994 0l132.7 132.6c9.40039 9.40039 9.40039 24.5996 0 33.9004l-132.7 132.8c-9.39941 9.39941 -24.5996 9.39941 -33.8994 0l-11 -10.9004
+c-9.5 -9.59961 -9.2998 -25.0996 0.399414 -34.3994z" />
+  </font>
+</defs></svg>
